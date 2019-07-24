@@ -4,88 +4,178 @@ Year,Award,Movie,Nominee,Winner
 2000,ACTOR IN A LEADING ROLE,The Straight Story,Richard Farnsworth,0
 2000,ACTOR IN A LEADING ROLE,Sweet and Lowdown,Sean Penn,0
 2000,ACTOR IN A LEADING ROLE,The Hurricane,Denzel Washington,0
+2000,ACTOR IN A SUPPORTING ROLE,The Cider House Rules,Michael Caine,1
+2000,ACTOR IN A SUPPORTING ROLE,Magnolia,Tom Cruise,0
+2000,ACTOR IN A SUPPORTING ROLE,The Green Mile,Michael Clarke Duncan,0
+2000,ACTOR IN A SUPPORTING ROLE,The Talented Mr. Ripley,Jude Law,0
+2000,ACTOR IN A SUPPORTING ROLE,The Sixth Sense,Haley Joel Osment,0
 2001,ACTOR IN A LEADING ROLE,Gladiator,Russell Crowe,1
 2001,ACTOR IN A LEADING ROLE,Before Night Falls,Javier Bardem,0
 2001,ACTOR IN A LEADING ROLE,Cast Away,Tom Hanks,0
 2001,ACTOR IN A LEADING ROLE,Pollock,Ed Harris,0
 2001,ACTOR IN A LEADING ROLE,Quills,Geoffrey Rush,0
+2001,ACTOR IN A SUPPORTING ROLE,Traffic,Benicio Del Toro,1
+2001,ACTOR IN A SUPPORTING ROLE,The Contender,Jeff Bridges,0
+2001,ACTOR IN A SUPPORTING ROLE,Shadow of the Vampire,Willem Dafoe,0
+2001,ACTOR IN A SUPPORTING ROLE,Erin Brockovich,Albert Finney,0
+2001,ACTOR IN A SUPPORTING ROLE,Gladiator,Joaquin Phoenix,0
 2002,ACTOR IN A LEADING ROLE,Training Day,Denzel Washington,1
 2002,ACTOR IN A LEADING ROLE,A Beautiful Mind,Russell Crowe,0
 2002,ACTOR IN A LEADING ROLE,I Am Sam,Sean Penn,0
 2002,ACTOR IN A LEADING ROLE,Ali,Will Smith,0
 2002,ACTOR IN A LEADING ROLE,In the Bedroom,Tom Wilkinson,0
+2002,ACTOR IN A SUPPORTING ROLE,Iris,Jim Broadbent,1
+2002,ACTOR IN A SUPPORTING ROLE,Training Day,Ethan Hawke,0
+2002,ACTOR IN A SUPPORTING ROLE,Sexy Beast,Ben Kingsley,0
+2002,ACTOR IN A SUPPORTING ROLE,The Lord of the Rings: The Fellowship of the Ring,Ian McKellen,0
+2002,ACTOR IN A SUPPORTING ROLE,Ali,Jon Voight,0
 2003,ACTOR IN A LEADING ROLE,The Pianist,Adrien Brody,1
 2003,ACTOR IN A LEADING ROLE,Adaptation,Nicolas Cage,0
 2003,ACTOR IN A LEADING ROLE,The Quiet American,Michael Caine,0
 2003,ACTOR IN A LEADING ROLE,Gangs of New York,Daniel Day-Lewis,0
 2003,ACTOR IN A LEADING ROLE,About Schmidt,Jack Nicholson,0
+2003,ACTOR IN A SUPPORTING ROLE,Adaptation,Chris Cooper,1
+2003,ACTOR IN A SUPPORTING ROLE,The Hours,Ed Harris,0
+2003,ACTOR IN A SUPPORTING ROLE,Road to Perdition,Paul Newman,0
+2003,ACTOR IN A SUPPORTING ROLE,Chicago,John C. Reilly,0
+2003,ACTOR IN A SUPPORTING ROLE,Catch Me If You Can,Christopher Walken,0
 2004,ACTOR IN A LEADING ROLE,Mystic River,Sean Penn,1
 2004,ACTOR IN A LEADING ROLE,Pirates of the Caribbean: The Curse of the Black Pearl,Johnny Depp,0
 2004,ACTOR IN A LEADING ROLE,House of Sand and Fog,Ben Kingsley,0
 2004,ACTOR IN A LEADING ROLE,Cold Mountain,Jude Law,0
 2004,ACTOR IN A LEADING ROLE,Lost in Translation,Bill Murray,0
+2004,ACTOR IN A SUPPORTING ROLE,Mystic River,Tim Robbins,1
+2004,ACTOR IN A SUPPORTING ROLE,The Cooler,Alec Baldwin,0
+2004,ACTOR IN A SUPPORTING ROLE,21 Grams,Benicio Del Toro,0
+2004,ACTOR IN A SUPPORTING ROLE,In America,Djimon Hounsou,0
+2004,ACTOR IN A SUPPORTING ROLE,The Last Samurai,Ken Watanabe,0
 2005,ACTOR IN A LEADING ROLE,Ray,Jamie Foxx,1
 2005,ACTOR IN A LEADING ROLE,Hotel Rwanda,Don Cheadle,0
 2005,ACTOR IN A LEADING ROLE,Finding Neverland,Johnny Depp,0
 2005,ACTOR IN A LEADING ROLE,The Aviator,Leonardo DiCaprio,0
 2005,ACTOR IN A LEADING ROLE,Million Dollar Baby,Clint Eastwood,0
+2005,ACTOR IN A SUPPORTING ROLE,Million Dollar Baby,Morgan Freeman,1
+2005,ACTOR IN A SUPPORTING ROLE,The Aviator,Alan Alda,0
+2005,ACTOR IN A SUPPORTING ROLE,Sideways,Thomas Haden Church,0
+2005,ACTOR IN A SUPPORTING ROLE,Collateral,Jamie Foxx,0
+2005,ACTOR IN A SUPPORTING ROLE,Closer,Clive Owen,0
 2006,ACTOR IN A LEADING ROLE,Capote,Philip Seymour Hoffman,1
 2006,ACTOR IN A LEADING ROLE,Hustle & Flow,Terrence Howard,0
 2006,ACTOR IN A LEADING ROLE,Brokeback Mountain,Heath Ledger,0
 2006,ACTOR IN A LEADING ROLE,Walk the Line,Joaquin Phoenix,0
 2006,ACTOR IN A LEADING ROLE,Good Night  and Good Luck.,David Strathairn,0
+2006,ACTOR IN A SUPPORTING ROLE,Syriana,George Clooney,1
+2006,ACTOR IN A SUPPORTING ROLE,Crash,Matt Dillon,0
+2006,ACTOR IN A SUPPORTING ROLE,Cinderella Man,Paul Giamatti,0
+2006,ACTOR IN A SUPPORTING ROLE,Brokeback Mountain,Jake Gyllenhaal,0
+2006,ACTOR IN A SUPPORTING ROLE,A History of Violence,William Hurt,0
 2007,ACTOR IN A LEADING ROLE,The Last King of Scotland,Forest Whitaker,1
 2007,ACTOR IN A LEADING ROLE,Blood Diamond,Leonardo DiCaprio,0
 2007,ACTOR IN A LEADING ROLE,Half Nelson,Ryan Gosling,0
 2007,ACTOR IN A LEADING ROLE,Venus,Peter O'Toole,0
 2007,ACTOR IN A LEADING ROLE,The Pursuit of Happyness,Will Smith,0
+2007,ACTOR IN A SUPPORTING ROLE,Little Miss Sunshine,Alan Arkin,1
+2007,ACTOR IN A SUPPORTING ROLE,Little Children,Jackie Earle Haley,0
+2007,ACTOR IN A SUPPORTING ROLE,Blood Diamond,Djimon Hounsou,0
+2007,ACTOR IN A SUPPORTING ROLE,Dreamgirls,Eddie Murphy,0
+2007,ACTOR IN A SUPPORTING ROLE,The Departed,Mark Wahlberg,0
 2008,ACTOR IN A LEADING ROLE,There Will Be Blood,Daniel Day-Lewis,1
 2008,ACTOR IN A LEADING ROLE,Michael Clayton,George Clooney,0
 2008,ACTOR IN A LEADING ROLE,Sweeney Todd The Demon Barber of Fleet Street,Johnny Depp,0
 2008,ACTOR IN A LEADING ROLE,In the Valley of Elah,Tommy Lee Jones,0
 2008,ACTOR IN A LEADING ROLE,Eastern Promises,Viggo Mortensen,0
+2008,ACTOR IN A SUPPORTING ROLE,No Country for Old Men,Javier Bardem,1
+2008,ACTOR IN A SUPPORTING ROLE,The Assassination of Jesse James by the Coward Robert Ford,Casey Affleck,0
+2008,ACTOR IN A SUPPORTING ROLE,Charlie Wilson's War,Philip Seymour Hoffman,0
+2008,ACTOR IN A SUPPORTING ROLE,Into the Wild,Hal Holbrook,0
+2008,ACTOR IN A SUPPORTING ROLE,Michael Clayton,Tom Wilkinson,0
 2009,ACTOR IN A LEADING ROLE,Milk,Sean Penn,1
 2009,ACTOR IN A LEADING ROLE,The Visitor,Richard Jenkins,0
 2009,ACTOR IN A LEADING ROLE,Frost/Nixon,Frank Langella,0
 2009,ACTOR IN A LEADING ROLE,The Curious Case of Benjamin Button,Brad Pitt,0
 2009,ACTOR IN A LEADING ROLE,The Wrestler,Mickey Rourke,0
+2009,ACTOR IN A SUPPORTING ROLE,The Dark Knight,Heath Ledger,1
+2009,ACTOR IN A SUPPORTING ROLE,Milk,Josh Brolin,0
+2009,ACTOR IN A SUPPORTING ROLE,Tropic Thunder,Robert Downey Jr.,0
+2009,ACTOR IN A SUPPORTING ROLE,Doubt,Philip Seymour Hoffman,0
+2009,ACTOR IN A SUPPORTING ROLE,Revolutionary Road,Michael Shannon,0
 2010,ACTOR IN A LEADING ROLE,Crazy Heart,Jeff Bridges,1
 2010,ACTOR IN A LEADING ROLE,Up in the Air,George Clooney,0
 2010,ACTOR IN A LEADING ROLE,A Single Man,Colin Firth,0
 2010,ACTOR IN A LEADING ROLE,Invictus,Morgan Freeman,0
 2010,ACTOR IN A LEADING ROLE,The Hurt Locker,Jeremy Renner,0
+2010,ACTOR IN A SUPPORTING ROLE,Inglourious Basterds,Christoph Waltz,1
+2010,ACTOR IN A SUPPORTING ROLE,Invictus,Matt Damon,0
+2010,ACTOR IN A SUPPORTING ROLE,The Messenger,Woody Harrelson,0
+2010,ACTOR IN A SUPPORTING ROLE,The Last Station,Christopher Plummer,0
+2010,ACTOR IN A SUPPORTING ROLE,The Lovely Bones,Stanley Tucci,0
 2011,ACTOR IN A LEADING ROLE,The King's Speech,Colin Firth,1
 2011,ACTOR IN A LEADING ROLE,Biutiful,Javier Bardem,0
 2011,ACTOR IN A LEADING ROLE,True Grit,Jeff Bridges,0
 2011,ACTOR IN A LEADING ROLE,The Social Network,Jesse Eisenberg,0
 2011,ACTOR IN A LEADING ROLE,127 Hours,James Franco,0
+2011,ACTOR IN A SUPPORTING ROLE,The Fighter,Christian Bale,1
+2011,ACTOR IN A SUPPORTING ROLE,Winter's Bone,John Hawkes,0
+2011,ACTOR IN A SUPPORTING ROLE,The Town,Jeremy Renner,0
+2011,ACTOR IN A SUPPORTING ROLE,The Kids Are All Right,Mark Ruffalo,0
+2011,ACTOR IN A SUPPORTING ROLE,The King's Speech,Geoffrey Rush,0
 2012,ACTOR IN A LEADING ROLE,The Artist,Jean Dujardin,1
 2012,ACTOR IN A LEADING ROLE,Demián Bichir,A Better Life,0
 2012,ACTOR IN A LEADING ROLE,The Descendants,George Clooney,0
 2012,ACTOR IN A LEADING ROLE,Tinker Tailor Soldier Spy,Gary Oldman,0
 2012,ACTOR IN A LEADING ROLE,Moneyball,Brad Pitt,0
+2012,ACTOR IN A SUPPORTING ROLE,Beginners,Christopher Plummer,1
+2012,ACTOR IN A SUPPORTING ROLE,My Week with Marilyn,Kenneth Branagh,0
+2012,ACTOR IN A SUPPORTING ROLE,Moneyball,Jonah Hill,0
+2012,ACTOR IN A SUPPORTING ROLE,Warrior,Nick Nolte,0
+2012,ACTOR IN A SUPPORTING ROLE,Extremely Loud & Incredibly Close,Max von Sydow,0
 2013,ACTOR IN A LEADING ROLE,Lincoln,Daniel Day-Lewis,1
 2013,ACTOR IN A LEADING ROLE,Silver Linings Playbook,Bradley Cooper,0
 2013,ACTOR IN A LEADING ROLE,Les Misérables,Hugh Jackman,0
 2013,ACTOR IN A LEADING ROLE,The Master,Joaquin Phoenix,0
 2013,ACTOR IN A LEADING ROLE,Flight,Denzel Washington,0
+2013,ACTOR IN A SUPPORTING ROLE,Django Unchained,Christoph Waltz,1
+2013,ACTOR IN A SUPPORTING ROLE,Argo,Alan Arkin,0
+2013,ACTOR IN A SUPPORTING ROLE,Silver Linings Playbook,Robert De Niro,0
+2013,ACTOR IN A SUPPORTING ROLE,The Master,Philip Seymour Hoffman,0
+2013,ACTOR IN A SUPPORTING ROLE,Lincoln,Tommy Lee Jones,0
 2014,ACTOR IN A LEADING ROLE,Dallas Buyers Club,Matthew McConaughey,1
 2014,ACTOR IN A LEADING ROLE,American Hustle,Christian Bale,0
 2014,ACTOR IN A LEADING ROLE,Nebraska,Bruce Dern,0
 2014,ACTOR IN A LEADING ROLE,The Wolf of Wall Street,Leonardo DiCaprio,0
 2014,ACTOR IN A LEADING ROLE,12 Years a Slave,Chiwetel Ejiofor,0
+2014,ACTOR IN A SUPPORTING ROLE,Dallas Buyers Club,Jared Leto,1
+2014,ACTOR IN A SUPPORTING ROLE,Captain Phillips,Barkhad Abdi,0
+2014,ACTOR IN A SUPPORTING ROLE,American Hustle,Bradley Cooper,0
+2014,ACTOR IN A SUPPORTING ROLE,12 Years a Slave,Michael Fassbender,0
+2014,ACTOR IN A SUPPORTING ROLE,The Wolf of Wall Street,Jonah Hill,0
 2015,ACTOR IN A LEADING ROLE,The Theory of Everything,Eddie Redmayne,1
 2015,ACTOR IN A LEADING ROLE,Foxcatcher,Steve Carell,0
 2015,ACTOR IN A LEADING ROLE,American Sniper,Bradley Cooper,0
 2015,ACTOR IN A LEADING ROLE,The Imitation Game,Benedict Cumberbatch,0
 2015,ACTOR IN A LEADING ROLE,Birdman or (The Unexpected Virtue of Ignorance),Michael Keaton,0
+2015,ACTOR IN A SUPPORTING ROLE,Whiplash,J.K. Simmons,1
+2015,ACTOR IN A SUPPORTING ROLE,The Judge,Robert Duvall,0
+2015,ACTOR IN A SUPPORTING ROLE,Boyhood,Ethan Hawke,0
+2015,ACTOR IN A SUPPORTING ROLE,Birdman or (The Unexpected Virtue of Ignorance),Edward Norton,0
+2015,ACTOR IN A SUPPORTING ROLE,Foxcatcher,Mark Ruffalo,0
 2016,ACTOR IN A LEADING ROLE,The Revenant,Leonardo DiCaprio,1
 2016,ACTOR IN A LEADING ROLE,Trumbo,Bryan Cranston,0
 2016,ACTOR IN A LEADING ROLE,The Martian,Matt Damon,0
 2016,ACTOR IN A LEADING ROLE,Steve Jobs,Michael Fassbender,0
 2016,ACTOR IN A LEADING ROLE,The Danish Girl,Eddie Redmayne,0
+2016,ACTOR IN A SUPPORTING ROLE,Bridge of Spies,Mark Rylance,1
+2016,ACTOR IN A SUPPORTING ROLE,The Big Short,Christian Bale,0
+2016,ACTOR IN A SUPPORTING ROLE,The Revenant,Tom Hardy,0
+2016,ACTOR IN A SUPPORTING ROLE,Spotlight,Mark Ruffalo,0
+2016,ACTOR IN A SUPPORTING ROLE,Creed,Sylvester Stallone,0
 2017,ACTOR IN A LEADING ROLE,Manchester by the Sea,Casey Affleck,1
 2017,ACTOR IN A LEADING ROLE,Hacksaw Ridge,Andrew Garfield,0
 2017,ACTOR IN A LEADING ROLE,La La Land,Ryan Gosling,0
 2017,ACTOR IN A LEADING ROLE,Captain Fantastic,Viggo Mortensen,0
 2017,ACTOR IN A LEADING ROLE,Fences,Denzel Washington,0
+2017,ACTOR IN A SUPPORTING ROLE,Moonlight,Mahershala Ali,1
+2017,ACTOR IN A SUPPORTING ROLE,Hell or High Water,Jeff Bridges,0
+2017,ACTOR IN A SUPPORTING ROLE,Manchester by the Sea,Lucas Hedges,0
+2017,ACTOR IN A SUPPORTING ROLE,Lion,Dev Patel,0
+2017,ACTOR IN A SUPPORTING ROLE,Nocturnal Animals,Michael Shannon,0

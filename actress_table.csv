@@ -4,88 +4,178 @@ Year,Award,Movie,Nominee,Winner
 2000,ACTRESS IN A LEADING ROLE,Tumbleweeds,Janet McTeer,0
 2000,ACTRESS IN A LEADING ROLE,The End of the Affair,Julianne Moore,0
 2000,ACTRESS IN A LEADING ROLE,Music of the Heart,Meryl Streep,0
+2000,ACTRESS IN A SUPPORTING ROLE,Girl  Interrupted,Angelina Jolie,1
+2000,ACTRESS IN A SUPPORTING ROLE,The Sixth Sense,Toni Collette,0
+2000,ACTRESS IN A SUPPORTING ROLE,Being John Malkovich,Catherine Keener,0
+2000,ACTRESS IN A SUPPORTING ROLE,Sweet and Lowdown,Samantha Morton,0
+2000,ACTRESS IN A SUPPORTING ROLE,Boys Don't Cry,Chloë Sevigny,0
 2001,ACTRESS IN A LEADING ROLE,Erin Brockovich,Julia Roberts,1
 2001,ACTRESS IN A LEADING ROLE,The Contender,Joan Allen,0
 2001,ACTRESS IN A LEADING ROLE,Chocolat,Juliette Binoche,0
 2001,ACTRESS IN A LEADING ROLE,Requiem for a Dream,Ellen Burstyn,0
 2001,ACTRESS IN A LEADING ROLE,You Can Count on Me,Laura Linney,0
+2001,ACTRESS IN A SUPPORTING ROLE,Pollock,Marcia Gay Harden,1
+2001,ACTRESS IN A SUPPORTING ROLE,Chocolat,Judi Dench,0
+2001,ACTRESS IN A SUPPORTING ROLE,Almost Famous,Kate Hudson,0
+2001,ACTRESS IN A SUPPORTING ROLE,Almost Famous,Frances McDormand,0
+2001,ACTRESS IN A SUPPORTING ROLE,Billy Elliot,Julie Walters,0
 2002,ACTRESS IN A LEADING ROLE,Monster's Ball,Halle Berry,1
 2002,ACTRESS IN A LEADING ROLE,Iris,Judi Dench,0
 2002,ACTRESS IN A LEADING ROLE,Moulin Rouge,Nicole Kidman,0
 2002,ACTRESS IN A LEADING ROLE,In the Bedroom,Sissy Spacek,0
 2002,ACTRESS IN A LEADING ROLE,Bridget Jones's Diary,Renée Zellweger,0
+2002,ACTRESS IN A SUPPORTING ROLE,A Beautiful Mind,Jennifer Connelly,1
+2002,ACTRESS IN A SUPPORTING ROLE,Gosford Park,Helen Mirren,0
+2002,ACTRESS IN A SUPPORTING ROLE,Gosford Park,Maggie Smith,0
+2002,ACTRESS IN A SUPPORTING ROLE,In the Bedroom,Marisa Tomei,0
+2002,ACTRESS IN A SUPPORTING ROLE,Iris,Kate Winslet,0
 2003,ACTRESS IN A LEADING ROLE,The Hours,Nicole Kidman,1
 2003,ACTRESS IN A LEADING ROLE,Frida,Salma Hayek,0
 2003,ACTRESS IN A LEADING ROLE,Unfaithful,Diane Lane,0
 2003,ACTRESS IN A LEADING ROLE,Far from Heaven,Julianne Moore,0
 2003,ACTRESS IN A LEADING ROLE,Chicago,Renée Zellweger,0
+2003,ACTRESS IN A SUPPORTING ROLE,Chicago,Catherine Zeta-Jones,1
+2003,ACTRESS IN A SUPPORTING ROLE,About Schmidt,Kathy Bates,0
+2003,ACTRESS IN A SUPPORTING ROLE,The Hours,Julianne Moore,0
+2003,ACTRESS IN A SUPPORTING ROLE,Chicago,Queen Latifah,0
+2003,ACTRESS IN A SUPPORTING ROLE,Adaptation,Meryl Streep,0
 2004,ACTRESS IN A LEADING ROLE,Monster,Charlize Theron,1
 2004,ACTRESS IN A LEADING ROLE,Whale Rider,Keisha Castle-Hughes,0
 2004,ACTRESS IN A LEADING ROLE,Something's Gotta Give,Diane Keaton,0
 2004,ACTRESS IN A LEADING ROLE,In America,Samantha Morton,0
 2004,ACTRESS IN A LEADING ROLE,21 Grams,Naomi Watts,0
+2004,ACTRESS IN A SUPPORTING ROLE,Cold Mountain,Renée Zellweger,1
+2004,ACTRESS IN A SUPPORTING ROLE,House of Sand and Fog,Shohreh Aghdashloo,0
+2004,ACTRESS IN A SUPPORTING ROLE,Pieces of April,Patricia Clarkson,0
+2004,ACTRESS IN A SUPPORTING ROLE,Mystic River,Marcia Gay Harden,0
+2004,ACTRESS IN A SUPPORTING ROLE,Thirteen,Holly Hunter,0
 2005,ACTRESS IN A LEADING ROLE,Million Dollar Baby,Hilary Swank,1
 2005,ACTRESS IN A LEADING ROLE,Being Julia,Annette Bening,0
 2005,ACTRESS IN A LEADING ROLE,Maria Full of Grace,Catalina Sandino Moreno,0
 2005,ACTRESS IN A LEADING ROLE,Vera Drake,Imelda Staunton,0
 2005,ACTRESS IN A LEADING ROLE,Eternal Sunshine of the Spotless Mind,Kate Winslet,0
+2005,ACTRESS IN A SUPPORTING ROLE,The Aviator,Cate Blanchett,1
+2005,ACTRESS IN A SUPPORTING ROLE,Kinsey,Laura Linney,0
+2005,ACTRESS IN A SUPPORTING ROLE,Sideways,Virginia Madsen,0
+2005,ACTRESS IN A SUPPORTING ROLE,Hotel Rwanda,Sophie Okonedo,0
+2005,ACTRESS IN A SUPPORTING ROLE,Closer,Natalie Portman,0
 2006,ACTRESS IN A LEADING ROLE,Walk the Line,Reese Witherspoon,1
 2006,ACTRESS IN A LEADING ROLE,Mrs. Henderson Presents,Judi Dench,0
 2006,ACTRESS IN A LEADING ROLE,Transamerica,Felicity Huffman,0
 2006,ACTRESS IN A LEADING ROLE,Pride & Prejudice,Keira Knightley,0
 2006,ACTRESS IN A LEADING ROLE,North Country,Charlize Theron,0
+2006,ACTRESS IN A SUPPORTING ROLE,The Constant Gardener,Rachel Weisz,1
+2006,ACTRESS IN A SUPPORTING ROLE,Junebug,Amy Adams,0
+2006,ACTRESS IN A SUPPORTING ROLE,Capote,Catherine Keener,0
+2006,ACTRESS IN A SUPPORTING ROLE,North Country,Frances McDormand,0
+2006,ACTRESS IN A SUPPORTING ROLE,Brokeback Mountain,Michelle Williams,0
 2007,ACTRESS IN A LEADING ROLE,The Queen,Helen Mirren,1
 2007,ACTRESS IN A LEADING ROLE,Volver,Penélope Cruz,0
 2007,ACTRESS IN A LEADING ROLE,Notes on a Scandal,Judi Dench,0
 2007,ACTRESS IN A LEADING ROLE,The Devil Wears Prada,Meryl Streep,0
 2007,ACTRESS IN A LEADING ROLE,Little Children,Kate Winslet,0
+2007,ACTRESS IN A SUPPORTING ROLE,Dreamgirls,Jennifer Hudson,1
+2007,ACTRESS IN A SUPPORTING ROLE,Babel,Adriana Barraza,0
+2007,ACTRESS IN A SUPPORTING ROLE,Notes on a Scandal,Cate Blanchett,0
+2007,ACTRESS IN A SUPPORTING ROLE,Little Miss Sunshine,Abigail Breslin,0
+2007,ACTRESS IN A SUPPORTING ROLE,Babel,Rinko Kikuchi,0
 2008,ACTRESS IN A LEADING ROLE,La Vie en Rose,Marion Cotillard,1
 2008,ACTRESS IN A LEADING ROLE,Elizabeth: The Golden Age,Cate Blanchett,0
 2008,ACTRESS IN A LEADING ROLE,Away from Her,Julie Christie,0
 2008,ACTRESS IN A LEADING ROLE,The Savages,Laura Linney,0
 2008,ACTRESS IN A LEADING ROLE,Juno,Ellen Page,0
+2008,ACTRESS IN A SUPPORTING ROLE,Michael Clayton,Tilda Swinton,1
+2008,ACTRESS IN A SUPPORTING ROLE,I'm Not There,Cate Blanchett,0
+2008,ACTRESS IN A SUPPORTING ROLE,American Gangster,Ruby Dee,0
+2008,ACTRESS IN A SUPPORTING ROLE,Atonement,Saoirse Ronan,0
+2008,ACTRESS IN A SUPPORTING ROLE,Gone Baby Gone,Amy Ryan,0
 2009,ACTRESS IN A LEADING ROLE,The Reader,Kate Winslet,1
 2009,ACTRESS IN A LEADING ROLE,Rachel Getting Married,Anne Hathaway,0
 2009,ACTRESS IN A LEADING ROLE,Changeling,Angelina Jolie,0
 2009,ACTRESS IN A LEADING ROLE,Frozen River,Melissa Leo,0
 2009,ACTRESS IN A LEADING ROLE,Doubt,Meryl Streep,0
+2009,ACTRESS IN A SUPPORTING ROLE,Vicky Cristina Barcelona,Penélope Cruz,1
+2009,ACTRESS IN A SUPPORTING ROLE,Doubt,Amy Adams,0
+2009,ACTRESS IN A SUPPORTING ROLE,Doubt,Viola Davis,0
+2009,ACTRESS IN A SUPPORTING ROLE,The Curious Case of Benjamin Button,Taraji P. Henson,0
+2009,ACTRESS IN A SUPPORTING ROLE,The Wrestler,Marisa Tomei,0
 2010,ACTRESS IN A LEADING ROLE,The Blind Side,Sandra Bullock,1
 2010,ACTRESS IN A LEADING ROLE,The Last Station,Helen Mirren,0
 2010,ACTRESS IN A LEADING ROLE,An Education,Carey Mulligan,0
 2010,ACTRESS IN A LEADING ROLE,Precious: Based on the Novel 'Push' by Sapphire,Gabourey Sidibe,0
 2010,ACTRESS IN A LEADING ROLE,Julie & Julia,Meryl Streep,0
+2010,ACTRESS IN A SUPPORTING ROLE,Precious: Based on the Novel 'Push' by Sapphire,Mo'Nique,1
+2010,ACTRESS IN A SUPPORTING ROLE,Nine,Penélope Cruz,0
+2010,ACTRESS IN A SUPPORTING ROLE,Up in the Air,Vera Farmiga,0
+2010,ACTRESS IN A SUPPORTING ROLE,Crazy Heart,Maggie Gyllenhaal,0
+2010,ACTRESS IN A SUPPORTING ROLE,Up in the Air,Anna Kendrick,0
 2011,ACTRESS IN A LEADING ROLE,Black Swan,Natalie Portman,1
 2011,ACTRESS IN A LEADING ROLE,The Kids Are All Right,Annette Bening,0
 2011,ACTRESS IN A LEADING ROLE,Rabbit Hole,Nicole Kidman,0
 2011,ACTRESS IN A LEADING ROLE,Winter's Bone,Jennifer Lawrence,0
 2011,ACTRESS IN A LEADING ROLE,Blue Valentine,Michelle Williams,0
+2011,ACTRESS IN A SUPPORTING ROLE,The Fighter,Melissa Leo,1
+2011,ACTRESS IN A SUPPORTING ROLE,The Fighter,Amy Adams,0
+2011,ACTRESS IN A SUPPORTING ROLE,The King's Speech,Helena Bonham Carter,0
+2011,ACTRESS IN A SUPPORTING ROLE,True Grit,Hailee Steinfeld,0
+2011,ACTRESS IN A SUPPORTING ROLE,Animal Kingdom,Jacki Weaver,0
 2012,ACTRESS IN A LEADING ROLE,The Iron Lady,Meryl Streep,1
 2012,ACTRESS IN A LEADING ROLE,Albert Nobbs,Glenn Close,0
 2012,ACTRESS IN A LEADING ROLE,The Help,Viola Davis,0
 2012,ACTRESS IN A LEADING ROLE,The Girl with the Dragon Tattoo,Rooney Mara,0
 2012,ACTRESS IN A LEADING ROLE,My Week with Marilyn,Michelle Williams,0
+2012,ACTRESS IN A SUPPORTING ROLE,The Help,Octavia Spencer,1
+2012,ACTRESS IN A SUPPORTING ROLE,The Artist,Bérénice Bejo,0
+2012,ACTRESS IN A SUPPORTING ROLE,The Help,Jessica Chastain,0
+2012,ACTRESS IN A SUPPORTING ROLE,Bridesmaids,Melissa McCarthy,0
+2012,ACTRESS IN A SUPPORTING ROLE,Albert Nobbs,Janet McTeer,0
 2013,ACTRESS IN A LEADING ROLE,Silver Linings Playbook,Jennifer Lawrence,1
 2013,ACTRESS IN A LEADING ROLE,Zero Dark Thirty,Jessica Chastain,0
 2013,ACTRESS IN A LEADING ROLE,Amour,Emmanuelle Riva,0
 2013,ACTRESS IN A LEADING ROLE,Beasts of the Southern Wild,Quvenzhané Wallis,0
 2013,ACTRESS IN A LEADING ROLE,The Impossible,Naomi Watts,0
+2013,ACTRESS IN A SUPPORTING ROLE,Les Misérables,Anne Hathaway,1
+2013,ACTRESS IN A SUPPORTING ROLE,The Master,Amy Adams,0
+2013,ACTRESS IN A SUPPORTING ROLE,Lincoln,Sally Field,0
+2013,ACTRESS IN A SUPPORTING ROLE,The Sessions,Helen Hunt,0
+2013,ACTRESS IN A SUPPORTING ROLE,Silver Linings Playbook,Jacki Weaver,0
 2014,ACTRESS IN A LEADING ROLE,Blue Jasmine,Cate Blanchett,1
 2014,ACTRESS IN A LEADING ROLE,American Hustle,Amy Adams,0
 2014,ACTRESS IN A LEADING ROLE,Gravity,Sandra Bullock,0
 2014,ACTRESS IN A LEADING ROLE,Philomena,Judi Dench,0
 2014,ACTRESS IN A LEADING ROLE,August: Osage County,Meryl Streep,0
+2014,ACTRESS IN A SUPPORTING ROLE,12 Years a Slave,Lupita Nyong'o,1
+2014,ACTRESS IN A SUPPORTING ROLE,Blue Jasmine,Sally Hawkins,0
+2014,ACTRESS IN A SUPPORTING ROLE,American Hustle,Jennifer Lawrence,0
+2014,ACTRESS IN A SUPPORTING ROLE,August: Osage County,Julia Roberts,0
+2014,ACTRESS IN A SUPPORTING ROLE,Nebraska,June Squibb,0
 2015,ACTRESS IN A LEADING ROLE,Still Alice,Julianne Moore,1
 2015,ACTRESS IN A LEADING ROLE,Two Days  One Night,Marion Cotillard,0
 2015,ACTRESS IN A LEADING ROLE,The Theory of Everything,Felicity Jones,0
 2015,ACTRESS IN A LEADING ROLE,Gone Girl,Rosamund Pike,0
 2015,ACTRESS IN A LEADING ROLE,Wild,Reese Witherspoon,0
+2015,ACTRESS IN A SUPPORTING ROLE,Boyhood,Patricia Arquette,1
+2015,ACTRESS IN A SUPPORTING ROLE,Wild,Laura Dern,0
+2015,ACTRESS IN A SUPPORTING ROLE,The Imitation Game,Keira Knightley,0
+2015,ACTRESS IN A SUPPORTING ROLE,Birdman or (The Unexpected Virtue of Ignorance),Emma Stone,0
+2015,ACTRESS IN A SUPPORTING ROLE,Into the Woods,Meryl Streep,0
 2016,ACTRESS IN A LEADING ROLE,Room,Brie Larson,1
 2016,ACTRESS IN A LEADING ROLE,Carol,Cate Blanchett,0
 2016,ACTRESS IN A LEADING ROLE,Joy,Jennifer Lawrence,0
 2016,ACTRESS IN A LEADING ROLE,45 Years,Charlotte Rampling,0
 2016,ACTRESS IN A LEADING ROLE,Brooklyn,Saoirse Ronan,0
+2016,ACTRESS IN A SUPPORTING ROLE,The Danish Girl,Alicia Vikander,1
+2016,ACTRESS IN A SUPPORTING ROLE,The Hateful Eight,Jennifer Jason Leigh,0
+2016,ACTRESS IN A SUPPORTING ROLE,Carol,Rooney Mara,0
+2016,ACTRESS IN A SUPPORTING ROLE,Spotlight,Rachel McAdams,0
+2016,ACTRESS IN A SUPPORTING ROLE,Steve Jobs,Kate Winslet,0
 2017,ACTRESS IN A LEADING ROLE,La La Land,Emma Stone,1
 2017,ACTRESS IN A LEADING ROLE,Elle,Isabelle Huppert,0
 2017,ACTRESS IN A LEADING ROLE,Loving,Ruth Negga,0
 2017,ACTRESS IN A LEADING ROLE,Jackie,Natalie Portman,0
 2017,ACTRESS IN A LEADING ROLE,Florence Foster Jenkins,Meryl Streep,0
+2017,ACTRESS IN A SUPPORTING ROLE,Fences,Viola Davis,1
+2017,ACTRESS IN A SUPPORTING ROLE,Moonlight,Naomie Harris,0
+2017,ACTRESS IN A SUPPORTING ROLE,Lion,Nicole Kidman,0
+2017,ACTRESS IN A SUPPORTING ROLE,Hidden Figures,Octavia Spencer,0
+2017,ACTRESS IN A SUPPORTING ROLE,Manchester by the Sea,Michelle Williams,0

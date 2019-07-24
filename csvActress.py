@@ -14,6 +14,6 @@ with open('past_nominations.csv', 'r') as csv_file:
 
             # Iterates through each line of the csv file that was read
             for line in csv_reader:
-                if line[1] == 'Award' or line[1] == 'ACTRESS IN A LEADING ROLE':
+                if line[1] == 'Award' or line[1] == 'ACTRESS IN A LEADING ROLE' or line[1] == 'ACTRESS IN A SUPPORTING ROLE':
                     csv_writer.writerow(line)
                 # print(line[1]) # Prints the Award name
