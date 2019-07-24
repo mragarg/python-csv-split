@@ -5,6 +5,15 @@ import csv
 with open('past_nominations.csv', 'r') as csv_file:
         csv_reader = csv.reader(csv_file)
 
-        # Iterates through each line of the csv file that was read
-        for line in csv_reader:
-            print(line[1]) # Prints the category of award
+        # Loops over the first line that contains col names
+        # next(csv_reader)
+
+        # Write new file
+        with open('actor_table.csv', 'w') as new_file:
+            csv_writer = csv.writer(new_file)
+
+            # Iterates through each line of the csv file that was read
+            for line in csv_reader:
+                if line[1] == 'Award' or line[1] == 'ACTOR IN A LEADING ROLE':
+                    csv_writer.writerow(line)
+                # print(line[1]) # Prints the Award name
